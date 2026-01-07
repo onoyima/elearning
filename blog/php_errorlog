@@ -1,0 +1,2 @@
+[29-Jan-2025 12:34:23 UTC] PHP Deprecated:  Creation of dynamic property cache_config::$configlockmappings is deprecated in /home/customer/www/elearning.veritas.edu.ng/public_html/cache/classes/config.php on line 146
+[28-Mar-2025 10:11:09 UTC] PHP Deprecated:  Creation of dynamic property cache_config::$configlockmappings is deprecated in /home/customer/www/elearning.veritas.edu.ng/public_html/cache/classes/config.php on line 146
